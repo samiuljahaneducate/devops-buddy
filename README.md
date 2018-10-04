@@ -1,4 +1,4 @@
-# devops-buddy
+# Devops Buddy
 Startup-ready web skeleton
 
 # How to build
